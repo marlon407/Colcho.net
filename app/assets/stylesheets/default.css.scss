@@ -1,3 +1,6 @@
+@import "shadow";
+$header-height: 55px;
+$content-width: 700px;
 $header-height: 55px;
 $content-width: 700px;
 $serif-families: "Pacifico", "Georgia", serif;
@@ -49,6 +52,7 @@ header nav {
 	    display: inline-block;
 	    vertical-align: middle;
 	    line-height: 55px;
+      margin-right: 7px;
 	}
   	li {
 	    display: inline-block;
